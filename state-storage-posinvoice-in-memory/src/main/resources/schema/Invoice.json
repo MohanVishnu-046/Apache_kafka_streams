@@ -1,0 +1,60 @@
+{
+  "type": "object",
+  "javaType": "streams.kafka.examples.types.PosInvoice",
+  "properties": {
+    "InvoiceNumber": {
+      "type": "string"
+    },
+    "CreatedTime": {
+      "javaType": "java.lang.Long",
+      "type": "object"
+    },
+    "StorageID": {
+      "type": "string"
+    },
+    "PosID": {
+      "type": "string"
+    },
+    "CashierID": {
+      "type": "string"
+    },
+    "CustomerType": {
+      "type": "string"
+    },
+    "CustomerCardNo": {
+      "type": "string"
+    },
+    "TotalAmount": {
+      "type": "number"
+    },
+    "NumberOfItems": {
+      "type": "integer"
+    },
+    "PaymnetMethod": {
+      "type": "string"
+    },
+    "TaxableAmount": {
+      "type": "number"
+    },
+    "CGST": {
+      "type": "number"
+    },
+    "SGST": {
+      "type": "number"
+    },
+    "CESS": {
+      "type": "number"
+    },
+    "DeliveryType": {
+      "type": "string"
+    },
+    "DeliveryAddress": {
+      "type": "object",
+      "$ref": "DeliveryAddress.json"
+    },
+    "LineItems": {
+      "type": "array",
+      "$ref": "LineItems.json"
+    }
+  }
+}
