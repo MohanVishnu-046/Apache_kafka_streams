@@ -1,0 +1,10 @@
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\AppConfigs.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\RecordBuilder.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\serde\AppSerdes.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\serde\JsonDeserializer.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\types\DeliveryAddress.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\types\HadoopRecord.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\types\Notification.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\types\LineItem.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\types\PosInvoice.java
+D:\IntelliJ_workspace\11-pos-fanout-starter\11-pos-fanout\src\main\java\guru\learningjournal\kafka\examples\serde\JsonSerializer.java
