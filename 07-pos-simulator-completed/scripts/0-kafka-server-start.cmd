@@ -1,0 +1,1 @@
+kafka-server-start.bat %KAFKA_HOME%\etc\kafka\server-0.properties

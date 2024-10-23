@@ -1,0 +1,10 @@
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\PosSimulator.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\RunnableProducer.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\types\LineItem.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\serde\JsonSerializer.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\datagenerator\AddressGenerator.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\datagenerator\InvoiceGenerator.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\types\DeliveryAddress.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\types\PosInvoice.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\AppConfigs.java
+D:\IntelliJ_workspace\07-pos-simulator-completed\src\main\java\guru\learningjournal\kafka\examples\datagenerator\ProductGenerator.java
